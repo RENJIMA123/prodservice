@@ -1,0 +1,7 @@
+organization=renjima123
+projectKey=RENJIMA123_prodservice
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.8830
+dashboardUrl=https://sonarcloud.io/dashboard?id=RENJIMA123_prodservice
+ceTaskId=AXLNg7-Mko7i18sTQ-DE
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXLNg7-Mko7i18sTQ-DE
